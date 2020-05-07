@@ -2,4 +2,4 @@
 
 This project is aimed to provide early warning system for fire.
 it has IOT system that connect to the server, so users can know where the fire occuring.
-This thing will be connected with web application  
+This thing will be connected with web application VIA firebase.com 
